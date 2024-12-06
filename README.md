@@ -9,7 +9,6 @@
 |-------------------------------|-----------------------------|-----------------------------|  
 | ![Home Page](screenshots/Screenshot_1733505040.png) | ![Recipe Details](screenshots/Screenshot_1733505049.png) | ![Saved Recipes](screenshots/Screenshot_1733505072.png) |  
 
-*Showcase your app's functionality with screenshots! Replace the placeholders (`path/to/filename.png`) with the actual paths to your screenshots.*
 
 ---
 
